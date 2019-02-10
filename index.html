@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="fr" xmlns:og="http://ogp.me/ns#">
+<html  lang="fr" xmlns:og="http://ogp.me/ns#">
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,34 +14,32 @@
     <meta property="og:description" content="Quelques directives pour mener votre sprint design.">
     <meta property="og:locale" content="fr_FR">
 
-
-    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Roboto" rel="stylesheet">
-
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
 
-    <link rel="stylesheet" href="css/style.css"/>
-    <!-- <script src="js/vendor/modernizr.js"></script> -->
+    <!--
+        <link rel="stylesheet" href="css/style.css"/>
+         <script src="js/vendor/modernizr.js"></script>
     <style rel="stylesheet">
         html {
             font-size: 1rem;
         }
 
-    </style>
+    </style>-->
 </head>
 
 
 <body>
 <div id="main" class="container">
-    <div id="header" class="">
+    <div id="header" class="mx-auto text-center">
         <div id="title">
-            <h1>Product Design Sprint</h1>
+            <h1 class="display-4">Product Design Sprint</h1>
         </div>
-        <img src="images/phases.jpg" class="img-fluid">
+        <img src="images/phases.svg" class="img-fluid">
     </div>
 
     <section class="row">
-        <div class="col-12">
+        <div class="col-12 col-md pt-4">
             <p>Ce site est une collection de documents destinés à guider un "Design Sprint" (sprint de conception). Il contient des directives qui ne doivent pas être suivies à la lettre. Chaque sprint doit être adapté au projet individuel. Il est écrit par et pour l'équipe de
                 thoughtbot. Il s'agit d'une traduction libre en français de F Grimonpont.</p>
 
@@ -57,7 +55,7 @@
         </div>
     </section>
     <section class="row">
-        <div class="col-12">
+        <div class="col-12 col-md pt-4">
             <h2>Qu'est-ce qu'un sprint Design ?</h2>
 
             <p>Un sprint de conception de produit est une technique pour résoudre rapidement les problèmes de conception de produits et tester la viabilité d'une solution.<br>
@@ -92,96 +90,100 @@
 
             <p>Chaque phase à une durée d'une journée.</p>
 
-            <p><strong>Note</strong> : il est possible de faire des sprints design sur 3 jours. (Cf : <a href="https://designsprintkit.withgoogle.com/introduction/overview" target="_blank">Design Sprint Kit with Google</a></p>
+            <p><strong>Note</strong> : il est possible de faire des sprints design sur 3 jours. (Cf : <a href="https://designsprintkit.withgoogle.com/introduction/overview" target="_blank">Design Sprint Kit with Google</a>)</p>
         </div>
     </section>
     <section class="row">
-        <div class="col-12">
-            <h3>Pre-Sprint</h3>
+        <div class="col-12 col-md pt-4 ">
+            <h2>Pre-Sprint</h2>
 
             <p>Nous ne devrions pas commencer un sprint sans se mettre d'accord sur la définition du "travail à faire" ou TAF (*job to be done*) comme le point central du sprint.</p>
             <p>Le "TAF" peut évoluer au cours du sprint vers un énoncé de problème accepté par toute l'équipe, mais sans un tel énoncé comme point de départ, le client ne sera pas prêt et ne devrait pas nous payer.</p>
 
-            <p>Voir en detail la phase de <a href="0-Pre-Sprint/index.html">pré-Sprint</a></p>
+            <p class="text-right">Voir en detail la phase de <a href="0-Pre-Sprint/index.html">pré-Sprint</a></p>
         </div>
     </section>
     <section class="row">
-        <div class="col-12">
-            <h3>Phase de compréhension</h3>
+        <div class="col-12 col-md pt-4 ">
+            <h2>Phase de compréhension</h2>
 
-            La phase "Comprendre" développe une compréhension commune du contexte dans lequel nous travaillons et de tous les éléments de ce contexte :
-            le client,
-            son travail à faire,
-            et l'entreprise que notre client espère aider avec le travail à faire.
-            Il faut mettre au jour les lacunes et les hypothèses risquées en matière de connaissances afin de pouvoir faire des plans pour réduire ces risques et aller de l'avant avec confiance. L'objectif est d'augmenter la connaissance du projet dès le début.
+            <p>La phase "Comprendre" développe une compréhension commune du contexte dans lequel nous travaillons et de tous les éléments de ce contexte :
+            le client,  son travail à faire,  et l'entreprise que notre client espère aider avec le travail à faire.<br>
+                Il faut mettre au jour les lacunes et les hypothèses risquées en matière de connaissances afin de pouvoir faire des plans pour réduire ces risques et aller de l'avant avec confiance. L'objectif est d'augmenter la connaissance du projet dès le début.</p>
 
-            Voir en détail la <a href="1-Understand/index.html">phase de compréhension</a>
+            <p class="text-right">Voir en détail la <a href="1-Understand/index.html">phase de compréhension</a></p>
         </div>
     </section>
     <section class="row">
-        <div class="col-12">
-            <h3>[Phase de divergence ](2-Diverge)</h3>>
+        <div class="col-12 col-md pt-4">
+            <h2>Phase de divergence</h2>
 
-            La phase de Divergence génère des idées et des concepts de solutions.
-            Notre objectif est d'explorer autant de possibilités que possible, indépendamment de leur faisabilité ou de leur viabilité.
-            Des perspectives naissent de cette explosion de possibilités en considérant les implications d'approches radicalement différentes pour résoudre un problème.
-            Ces perspectives peuvent devenir des forces différenciatrices précieuses et la source d'inspiration pour des solutions uniques.
+            <p>La phase de Divergence génère des idées et des concepts de solutions.
+                Notre objectif est d'explorer autant de possibilités que possible, indépendamment de leur faisabilité ou de leur viabilité.</p>
+            <p>Des perspectives naissent de cette explosion de possibilités en considérant les implications d'approches radicalement différentes pour résoudre un problème.
+                Ces perspectives peuvent devenir des forces différenciatrices précieuses et la source d'inspiration pour des solutions uniques.</p>
 
-            Voir en détail la <a href="2-Diverge/index.html">phase de divergence</a>
+            <p class="text-right">Voir en détail la <a href="2-Diverge/index.html">phase de divergence</a></p>
         </div>
     </section>
     <section class="row">
-        <div class="col-12">
-            <h3>Phase de convergence</h3>
+        <div class="col-12 col-md pt-4">
+            <h2>Phase de convergence</h2>
 
-            La phase de Convergence reprend toutes les possibilités générées au cours des deux dernières phases et s'affine sur une seule version pour prototyper et tester avec des clients existants ou potentiels.
-            En explorant et en éliminant tant d'options, cela renforce la confiance dans les choix.
+            <p>La phase de Convergence reprend toutes les possibilités générées au cours des deux dernières phases et s'affine sur une seule version pour prototyper et tester avec des clients existants ou potentiels.
+                En explorant et en éliminant tant d'options, cela renforce la confiance dans les choix.</p>
 
-            Voir en détail la <a href="3-Converge/index.html">phase de convergence</a>
+            <p class="text-right">Voir en détail la <a href="3-Converge/index.html">phase de convergence</a></p>
     </section>
     <section class="row">
-        <h3>Phase de prototypage</h3>
+        <div class="col-12 col-md pt-4">
+        <h2>Phase de prototypage</h2>
 
-        La phase Prototypage comme son nom l'indique développe un prototype qui comble les lacunes et les hypothèses les plus risquées de nos connaissances.
-        Les prototypes en papier, sous forme de Keynote ou PowerPoint , les pages HTML/CSS statiques sont tous des médiums valables.
-        Le médium devrait être déterminé par nos contraintes de temps et nos objectifs d'apprentissage.
+        <p>La phase Prototypage comme son nom l'indique développe un prototype qui comble les lacunes et les hypothèses les plus risquées de nos connaissances.
+        </p><p>Les prototypes en papier, sous forme de Keynote ou PowerPoint , les pages HTML/CSS statiques sont tous des médiums valables.
+            Le médium devrait être déterminé par nos contraintes de temps et nos objectifs d'apprentissage.</p>
 
-        Voir en d"tail la <a href="4-Prototype/index.html">phase de prototypage</a>
+            <p class="text-right">Voir en détail la <a href="4-Prototype/index.html">phase de prototypage</a></p>
+        </div>
     </section>
     </section>
 
     <section class="row">
-        <div class="col-12">
-            <h3>Phase de Test</h3>
+        <div class="col-12  col-md pt-4">
+            <h2>Phase de Test</h2>
 
-            Cette phase permet de tester le prototype avec de véritables clients ou des utilisateurs potentiels.
-            À la fin de cette phase, nous devrions avoir validé ou invalidé nos lacunes et hypothèses les plus risquées en matière de connaissances et avoir confiance dans nos prochaines étapes.
+            <p>Cette phase permet de tester le prototype avec de véritables clients ou des utilisateurs potentiels.
+                À la fin de cette phase, nous devrions avoir validé ou invalidé nos lacunes et hypothèses les plus risquées en matière de connaissances et avoir confiance dans nos prochaines étapes.</p>
 
-            Vir en détail la <a href="5-Test/index.html">phase de Test</a>
+            <p class="text-right">Voir en détail la <a href="5-Test/index.html">phase de Test</a></p>
         </div>
 
     </section>
+    <hr>
     <section class="row">
-        <div class="col-12">
-            <h2>[Modèle de Design Sprint sur Trello](https://trello.com/b/lMmuSlkP/public-design-sprint-template)</h2>
+        <div class="col-12 col-md pt-4">
+            <h2>Modèle de Design Sprint sur Trello</h2>
 
-            Tout au long du sprint, il faut enregistrer les activités tout autant que possible.
-            L'équipe de Thoughtbot a trouvé que Trello était un excellent outil pour aider l'équipe à enregistrer les activité effectués pendant le sprint. Ce Template vous permettra d'en faciliter la mise en oeuvre (le Trello est en anglais).
+            <p>Tout au long du sprint, il faut enregistrer les activités tout autant que possible.
+                L'équipe de Thoughtbot a trouvé que Trello était un excellent outil pour aider l'équipe à enregistrer les activité effectués pendant le sprint. Ce Template vous permettra d'en faciliter la mise en oeuvre (le Trello est en anglais).</p>
 
-            Copiez [ce trello](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
-            Dans vos propres tableaux pour vous aider et documenter votre sprint.
+            <p>Copiez <a href="https://trello.com/b/lMmuSlkP/public-design-sprint-template" target="_blank">ce trello</a>
+                Dans vos propres tableaux pour vous aider et documenter votre sprint.</p>
 
 
-            <h2>Exemples de planification de Sprint Design</h2>
+            <h3>Exemples de planification de Sprint Design</h3>
+            <ul>
+                <li>Planification phase 1</li>
+                <li>Planification phase 2</li>
+                <li>Planification phase 3</li>
+                <li>Planification phase 5</li>
 
-            * [Schedule for Understand](1-Understand/Schedule.md)
-            * [Schedule for Diverge](2-Diverge/Schedule.md)
-            * [Schedule for Converge](3-Converge/Schedule.md)
-            * [Schedule for Test](5-Test/Schedule.md)
+            </ul>
         </div>
     </section>
+    <hr>
     <section class="row">
-        <div class="col-12">
+        <div class="col-12 col-md pt-4">
             <h2>Pour aller plus loin</h2>
             <ul>
                 <li><a href="http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html" target="_blank"> Ventures [Design Staff blog posts</a></li>
@@ -197,26 +199,42 @@
             </ul>
         </div>
     </section>
-    <section class="row">
-        <div class="col-4">
-            <h2>Contribution</h2>
+    <hr>
+    <section class="card-deck mb-3 text-center">
 
-            <p>J'aime les nouvelles idées qui poussent ce référentiel en avant.
-                <a href="https://github.com/fkgrim/Sprint-Design" target="_blank">Allersur le gitHub</a> déposer des demandes</p>
-        </div>
-        <div class="col-4">
-            <h2>Credits</h2>
 
-            Ce repo est au départ un Fork de https://github.com/thoughtbot/design-sprint
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Contribution</h4>
+            </div>
+            <div class="card-body">
+                <p>J'aime les nouvelles idées qui poussent ce référentiel en avant.
+                    <a href="https://github.com/fkgrim/Sprint-Design" target="_blank">Aller sur le gitHub</a> déposer des demandes</p>
+            </div>
         </div>
-        <div class="col-4">
-            <h2>License</h2>
 
-            Copyright © 2015 [thoughtbot, inc](http://thoughtbot.com).
-            The information contained in Design Sprint is free,
-            and may be redistributed under the terms specified in the
-            [license](LICENSE.md).
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Credits</h4>
+            </div>
+            <div class="card-body">
+                <p> Ce repo est au départ un Fork de https://github.com/thoughtbot/design-sprints</p>
+            </div>
         </div>
+
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">License</h4>
+            </div>
+            <div class="card-body">
+                <small>Copyright © 2015 http://thoughtbot.com.
+                    The information contained in Design Sprint is free,
+                    and may be redistributed under the terms specified in the
+                    [license](LICENSE.md).</small>
+            </div>
+        </div>
+
+
     </section>
 </div>
 
