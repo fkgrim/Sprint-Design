@@ -1,10 +1,10 @@
-![Design Sprint Phases](/images/phases.png?raw=true "Design Sprint Phases")
+![Design Sprint Phases](/images/phases.jpg "Phases du Sprint Design")
 
 # Product Design Sprint
 
 Ce repo est une collection de documents destinés à guider un "Design Sprint" (sprint de conception). Il contient des directives qui ne doivent pas être suivies à la lettre. Chaque sprint doit être adapté au projet individuel. Il est écrit par et pour l'équipe de thoughtbot. Il s'agit d'une traduction libre en français de F Grimonpont.
 
-* [Sprints Prcédents](Previous-Sprints)
+* [Sprints Précédents](Previous-Sprints)
 * [Pré-Sprint la préparation](0-Pre-Sprint)
 * [Lundi : Phase de comprehénesion](1-Understand)
 * [Mardi : Phase de divergence](2-Diverge)
