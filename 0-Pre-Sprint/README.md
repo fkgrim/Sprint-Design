@@ -1,99 +1,80 @@
 # Pre-sprint
 
-### Send out [Client Worksheet](Materials/Pre-Sprint_Client_Worksheet.md) and [Request for Materials](Materials/Pre-Sprint_Request_for_Materials.md)
+### Envoyer [la fiche de travail client](Materials/Pre-Sprint_Client_Worksheet.md) et [la demande de matériel](Materials/Pre-Sprint_Request_for_Materials.md)
 
-Notify all members of the sprint to set up the expectation of anything that they
-need to complete before the sprint and what to expect during the sprint.
+Avertir tous les membres du sprint pour qu'ils s'attendent à ce que tout ce qu'ils
+doivent accomplir avant le sprint et ce à quoi il faut s'attendre pendant le sprint.
 
-### Review roles for the sprint
+### Révision des rôles pour un sprint
 
-**Facilitator** Leads the design sprint. Guides the sprint from start to
-completion.
+**L'animateur** dirige le sprint de conception. Dirige le sprint du début à la fin.
 
-**Recorder** Takes notes, photographs and is in charge of the documentation for
-the sprint.
+**L'enregistreur** prend des notes, des photos et s'occupe de la documentation pour le sprint.
 
-**Product Owner** Typically the client and the person with the initial product vision. 
-This person has final say in the product.
+**Product Owner** Généralement le client et la personne ayant la vision initiale du produit. Cette personne a le dernier mot sur le produit.
 
-### Set expectations for the outcome for the sprint
+### Définir les attentes concernant le résultat du sprint
 
-Sometimes, design sprints converge on solutions that are
-partially or completely invalidated.
-Some things will have worked, and others won't.
-Make sure everyone understands that the outcome
-falls in one of three buckets:
+Parfois, les sprints de conception convergent vers des solutions qui sont
+partiellement ou totalement invalidé.
+Certaines choses auront fonctionné, d'autres non.
+Assurez-vous que chacun comprenne que le résultat
+tombe dans l'un des trois cas :
 
-- Most stuff worked
+- La plupart des choses ont fonctionné
 
 This often doesn't happen during the first sprint on a project,
 but if it happens to you,
 everyone on the team is probably on the same page about the fixes and
 tweaks you need to make.
 
-What to do next: Take a week to tune your existing prototype. Create a backlog
-for developers to start implementation of the most important features or API
-integrations.
+Que faire ensuite ? Prenez une semaine pour mettre au point votre prototype existant. Créez un backlog (une liste d'attente) pour que les développeurs puissent commencer à mettre en œuvre les fonctionnalités les plus importantes ou les intégrations d'API.
 
-- Some big questions
+- Quelques questions importantes
 
-A common outcome after a user study is a mixed bag: a few hits, a few
-tweaks, and a couple of real head-scratchers. Fortunately Keynote prototypes are
-easy to change, and as long as some parts of your design are solid, you can
-probably build on what you have.
+Les résultats d'une étude sur les utilisateurs sont souvent mitigés : quelques succès, quelques modifications ou réglages et quelques vrais casse-tête. Heureusement, les prototypes de Keynote sont faciles à changer et, tant que certaines parties de votre conception sont solides, vous pouvez probablement vous appuyer sur ce que vous avez.
+Que faire ensuite ? Vous pouvez aller vite en besogne, mais vous devrez trouver des solutions multiples pour les problèmes plus importants. Commencez votre prochain sprint à l'étape 2 (divergence).
 
-What to do next: You can move fast on the tweaks, but you’ll want to come up
-with multiple solutions for the bigger problems. Start your next sprint at step
-2 (diverge).
+- Tout a éclaté
 
-- Everything exploded
+Nous avons vu beaucoup de designs partir en flammes, et c'est normal. Vous avez appris que quelque chose ne marchait pas, et il ne vous a fallu que quelques heures pour le construire.
+C'est un grand progrès, et c'est très économique par rapport à la construction et au lancement d'un produit complet.
+Pensez à ce qui se serait passé si vous aviez passé des semaines ou des mois à mettre en œuvre cette solution !
 
-We've seen a lot of designs go up in flames, and that's OK. You learned that
-something didn’t work, and it only took you a few hours to build it.
-This is great progress, and very cheap relative to building 
-and launching a full product.
-Think what would have happened if you’d spent weeks or
-months implementing this solution!
+Que faire ensuite ? Commencez votre prochain sprint à la planche à dessin avec l'étape 1 (comprendre). (Indice : les résultats de cette étude Vont vous permetre de revoir et renforcer la compréhension en groupe).
 
-What to do next: Start your next sprint back at the drawing board with step 1 (understand). (Hint: the results of this study are perfect fodder for reviewing and building understanding as a group.)
+### Examiner la documentation et le calendrier du sprint de conception
 
-### Review design sprint documentation and schedule
-
-The moderator of the sprint should be reviewing design sprint documentation and
-coming up with a plan specific to the project of feature set. **Typically done by the Facilitator.**
+Le modérateur du sprint doit examiner la documentation du sprint de conception et proposer un plan spécifique au projet ou à l'ensemble de fonctionnalités. **Généralement effectué par le facilitateur.**
 
 
-### Gather existing research and information
+### Rassembler les recherches et les informations existantes
 
 Learning from previous product design sprints, existing product or other test
 and research done. **Typically done by the Product Owner.**
 
-### Capture existing competition
+### Capturer / analyser la concurrence existante
 
-Any potential competition that solves the same or similar problem that the
-sprint is trying to solve. This should include lowest common denominator
-competitors such as email and offline tools. **Typically done by the Product Owner.**
+Toute compétition potentielle qui résout le même problème ou un problème similaire que le sprint tente de résoudre. Cela devrait inclure les concurrents du plus petit dénominateur commun tels que le courrier électronique et les outils hors ligne. **Typiquement fait par le propriétaire du produit.**
 
-### Set up room
+### Mise en place de la salle
 
-Make sure you have a room big enough to fit all of the people in the sprint. The
-room would have a whiteboard and a place to pin or tape up sketches. **Typically done by Facilitator.**
+Assurez-vous d'avoir une salle suffisamment grande pour accueillir tous les participants au sprint. Cette pièce sera équipée d'un tableau blanc et d'un endroit où vous pourrez épingler ou coller des croquis. **Typiquement fait par le facilitateur.**
 
-### Buy supplies needed for sprint
+### Acheter les fournitures nécessaires pour le sprint
 
-* Sharpies
+* Marqueurs
 * Post-its
-* Blank sheets of Printer paper
-* Whiteboard markers
-* Circle vote stickers
-* Easel Pad
+* Feuilles vierges A4
+* Marqueurs pour tableaux blancs
+* Autocollants ou gommettes pour les votes
+* Pad de chevalet
  
-**Typically done by Facilitator.**
+**Généralement effectué par le facilitateur.**
 
-### Schedule 4–6 people for interviews / usability tests
+### Prévoir 4 à 6 personnes pour les entretiens / tests d'utilisation
 
-Only if users are already identified. Otherwise this should be held off till
-after Understand. During [Test](../5-Test), we'll be running a user study, showing the
-prototype to 4–6 real people. Learn [how to recruit great participants for your study
-here](http://www.designstaff.org/articles/recruiting-how-to-find-great-participants-for-your-user-study-2012-02-22.html).
-**Typically done by Product Owner.**
+Seulement si les utilisateurs sont déjà identifiés. Dans le cas contraire, il faut attendre que
+après la phase Comprendre. Pendant [Test](../5-Test), nous allons effectuer une étude des utilisateurs, en montrant les prototypes à 4-6 personnes réelles. 
+Apprenez [comment recruter de bons participants pour votre étude ici](http://www.designstaff.org/articles/recruiting-how-to-find-great-participants-for-your-user-study-2012-02-22.html).
+**Généralement effectuée par le Product Owner.**

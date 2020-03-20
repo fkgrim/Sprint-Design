@@ -1,10 +1,10 @@
-![Design Sprint Phases](/images/phases.jpg "Phases du Sprint Design")
+![Design Sprint Phases](/images/phases.png?raw=true "Design Sprint Phases")
 
 # Product Design Sprint
 
 Ce repo est une collection de documents destinés à guider un "Design Sprint" (sprint de conception). Il contient des directives qui ne doivent pas être suivies à la lettre. Chaque sprint doit être adapté au projet individuel. Il est écrit par et pour l'équipe de thoughtbot. Il s'agit d'une traduction libre en français de F Grimonpont.
 
-* [Sprints Précédents](Previous-Sprints)
+* [Sprints Prcédents](Previous-Sprints)
 * [Pré-Sprint la préparation](0-Pre-Sprint)
 * [Lundi : Phase de comprehénesion](1-Understand)
 * [Mardi : Phase de divergence](2-Diverge)
@@ -102,12 +102,12 @@ Cette phase permet de tester le prototype avec de véritables clients ou des uti
 Vir en détail la [phase de Test](5-Test)
 
 
-## [Modèle de Design Sprint sur Trello](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
+## [Modèle de Design Sprint sur Trello](https://trello.com/b/1X6St5Wb/product-design-sprint)
 
 Tout au long du sprint, il faut enregistrer les activités tout autant que possible.
 L'équipe de Thoughtbot a trouvé que Trello était un excellent outil pour aider l'équipe à enregistrer les activité effectués pendant le sprint. Ce Template vous  permettra d'en faciliter la mise en oeuvre (le Trello est en anglais).
 
-Copiez [ce trello](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
+Copiez [ce trello](https://trello.com/b/1X6St5Wb/product-design-sprint)
 Dans vos propres tableaux pour vous aider et documenter votre sprint.
 
 
